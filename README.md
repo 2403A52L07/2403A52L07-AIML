@@ -1,5 +1,5 @@
 https://github.com/2403A52L07/2403A52L07-AIML/blob/main/AIML_Lab_01(2403A52L07).ipynb
-
+https://github.com/2403A52L07/2403A52L07-AIML/blob/main/AIML_Lab_02(2403A52L07).ipynb
 
 
 
